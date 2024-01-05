@@ -1,0 +1,9 @@
+DataBase Name :travelmanagement;
+Password : Roksana@1234
+Host Name :root
+host Type:localhost
+Table Information :
+1)  table name:account (username,name,Pass,security,answer)
+2) table name:customer (username,id ,number ,name ,gender,country ,address,phone ,email)
+
+
